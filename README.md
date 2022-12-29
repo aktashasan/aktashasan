@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A passionate Java developer from TURKEY</h3>
+<h3 align="center">A passionate Software developer from TURKEY</h3>
 
-- 🔭 I’m as **Java Developer**
+- 🔭 I’m as **Software Developer**
 
 - 💬 Ask me about **Java, Spring Boot, Docker, PostgreSQL, Tomcat**
 
