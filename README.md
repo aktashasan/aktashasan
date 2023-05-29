@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A passionate Software developer from TURKEY</h3>
+<h3 align="center">A passionate DevOps Engineer from TURKEY</h3>
 
-- 🔭 I’m as **Software Developer**
+- 🔭 I’m as **DevOps Engineer**
 
-- 💬 Ask me about **Java, Spring Boot, Docker, PostgreSQL, Tomcat**
+- 💬 Ask me about **Java, Spring Boot, Docker, Kubernetes, Linux(RHEL,Ubuntu), PostgreSQL, Tomcat**
 
 - 📫 How to reach me **aktashasan1130@gmail.com**
 - My DockerHub Address:**https://hub.docker.com/u/hasanaktas**
