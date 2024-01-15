@@ -20,4 +20,5 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aktashasan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-profile-trophy.vercel.app/?username=umitdemirtas&theme=nord" width="%100" height="150px" alt="stats" />
 <br/>  
